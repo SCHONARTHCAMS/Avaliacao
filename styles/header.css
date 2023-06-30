@@ -18,8 +18,7 @@
 }
 
 .logo_costa{
-    width: 44px
-    height: 44px
+    width: 44px 
 }
 .container{
     display: flex;
@@ -40,6 +39,10 @@
 
 .container__botao{
     display: none;
+}
+
+.container__botao:checked~ .lista-menu{
+    display: block;
 }
 
 
