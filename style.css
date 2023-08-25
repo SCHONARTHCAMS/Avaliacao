@@ -11,3 +11,14 @@
 body{
     background-color: var(--cor-de-fundo);
 }
+
+
+.frase{
+    font-size: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #B8860B;
+
+}
